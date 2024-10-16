@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header-container {
+    max-width: 1180px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.higher-header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.questions-consultations {
+    display: flex;
+    gap: 15px;
+}
